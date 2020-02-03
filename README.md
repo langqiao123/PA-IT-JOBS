@@ -1,6 +1,6 @@
 [返回全部](https://github.com/zaqweb/PA-IT-JOBS/)
 
-数据更新时间：2020-02-03 20:25:53
+数据更新时间：2020-02-03 20:42:45
 # 项目说明
 
 优势：免打扰，无需开放简历
@@ -11,16 +11,16 @@
 
 如果该信息能帮忙获得更好的发展请为项目点亮Star，转发给有需要的朋友
 # 按技能
-[AI人工智能](skills/AI人工智能.md)   [前端开发](skills/前端开发.md)   [产品(顾问)类](skills/产品(顾问)类.md)   [算法工程师](skills/算法工程师.md)   [大数据开发](skills/大数据开发.md)   [管理类](skills/管理类.md)   [测试类](skills/测试类.md)   [移动开发](skills/移动开发.md)   [数据库类](skills/数据库类.md)   
-[后端开发](skills/后端开发.md)   [其他分类](skills/其他分类.md)   [云计算](skills/云计算.md)   
+[AI人工智能 ](skills/AI人工智能.md)   [前端开发   ](skills/前端开发.md)   [产品(顾问)类](skills/产品(顾问)类.md)   [算法工程师  ](skills/算法工程师.md)   [大数据开发  ](skills/大数据开发.md)   [管理类    ](skills/管理类.md)   [测试类    ](skills/测试类.md)   [移动开发   ](skills/移动开发.md)   [数据库类   ](skills/数据库类.md)   
+[后端开发   ](skills/后端开发.md)   [其他分类   ](skills/其他分类.md)   [云计算    ](skills/云计算.md)   
 # 按城市
-[呼和浩特市](cities/呼和浩特市.md)   [温州市](cities/温州市.md)   [上海市](cities/上海市.md)   [深圳市](cities/深圳市.md)   [南昌市](cities/南昌市.md)   [兰州市](cities/兰州市.md)   [岳阳市](cities/岳阳市.md)   [北京市](cities/北京市.md)   [阜阳市](cities/阜阳市.md)   
-[四川省](cities/四川省.md)   [昆明市](cities/昆明市.md)   [海口市](cities/海口市.md)   [晋城市](cities/晋城市.md)   [乌鲁木齐市](cities/乌鲁木齐市.md)   [成都市](cities/成都市.md)   [哈尔滨市](cities/哈尔滨市.md)   [嘉兴市](cities/嘉兴市.md)   [青岛市](cities/青岛市.md)   
-[南宁市](cities/南宁市.md)   [河南省](cities/河南省.md)   
+[呼和浩特市  ](cities/呼和浩特市.md)   [温州市    ](cities/温州市.md)   [上海市    ](cities/上海市.md)   [深圳市    ](cities/深圳市.md)   [南昌市    ](cities/南昌市.md)   [兰州市    ](cities/兰州市.md)   [岳阳市    ](cities/岳阳市.md)   [北京市    ](cities/北京市.md)   [阜阳市    ](cities/阜阳市.md)   
+[四川省    ](cities/四川省.md)   [昆明市    ](cities/昆明市.md)   [海口市    ](cities/海口市.md)   [晋城市    ](cities/晋城市.md)   [乌鲁木齐市  ](cities/乌鲁木齐市.md)   [成都市    ](cities/成都市.md)   [哈尔滨市   ](cities/哈尔滨市.md)   [嘉兴市    ](cities/嘉兴市.md)   [青岛市    ](cities/青岛市.md)   
+[南宁市    ](cities/南宁市.md)   [河南省    ](cities/河南省.md)   
 # 按公司
-[平安资产](coms/平安资产.md)   [平安壹钱包](coms/平安壹钱包.md)   [平安城科](coms/平安城科.md)   [平安产险](coms/平安产险.md)   [智慧企业](coms/智慧企业.md)   [平安健康险](coms/平安健康险.md)   [平安金服](coms/平安金服.md)   [平安期货](coms/平安期货.md)   [平安租赁](coms/平安租赁.md)   
-[平安科技](coms/平安科技.md)   [健康互联网](coms/健康互联网.md)   [平安寿险](coms/平安寿险.md)   [集团总部](coms/集团总部.md)   [平安证券](coms/平安证券.md)   [平安银行](coms/平安银行.md)   [平安智慧城](coms/平安智慧城.md)   [医疗健康](coms/医疗健康.md)   [平安普惠](coms/平安普惠.md)   
-[平安基金](coms/平安基金.md)   [平安养老险](coms/平安养老险.md)   [金融壹账通](coms/金融壹账通.md)   
+[平安资产   ](coms/平安资产.md)   [平安壹钱包  ](coms/平安壹钱包.md)   [平安城科   ](coms/平安城科.md)   [平安产险   ](coms/平安产险.md)   [智慧企业   ](coms/智慧企业.md)   [平安健康险  ](coms/平安健康险.md)   [平安金服   ](coms/平安金服.md)   [平安期货   ](coms/平安期货.md)   [平安租赁   ](coms/平安租赁.md)   
+[平安科技   ](coms/平安科技.md)   [健康互联网  ](coms/健康互联网.md)   [平安寿险   ](coms/平安寿险.md)   [集团总部   ](coms/集团总部.md)   [平安证券   ](coms/平安证券.md)   [平安银行   ](coms/平安银行.md)   [平安智慧城  ](coms/平安智慧城.md)   [医疗健康   ](coms/医疗健康.md)   [平安普惠   ](coms/平安普惠.md)   
+[平安基金   ](coms/平安基金.md)   [平安养老险  ](coms/平安养老险.md)   [金融壹账通  ](coms/金融壹账通.md)   
 # 全部职位（展开查看详情）
 
 |职位|公司|部门|招聘人数|学历要求|工作经验|薪资|城市|
