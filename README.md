@@ -1,6 +1,6 @@
 [返回全部](https://github.com/zaqweb/PA-IT-JOBS/)
 
-数据更新时间：2020-02-03 23:10:02&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;共 520 个职位
+数据更新时间：2020-02-03 23:19:27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;共 520 个职位
 # 项目说明
 
 优势：免打扰，无需开放简历
