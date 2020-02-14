@@ -1,6 +1,6 @@
 [返回全部](https://github.com/zaqweb/PA-IT-JOBS/)
 
-数据更新时间：2020-02-14 23:23:46&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;共 520 个职位
+数据更新时间：2020-02-14 23:24:22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;共 520 个职位
 # 项目说明
 
 ### 2019年《财富》世界500强第29位集团企业
